@@ -9,4 +9,7 @@ Bot para Counter-Strike Global Offensive
   | :---: |
 
 --------------------
+
+O bot utiliza as funcionalidades de reconhecimento de imagem da biblioteca Pyautogui para verificar quando uma partida é encontrada, o bot irá aceitar a partida, caso a partida não começar o bot vai esperar seis segundos e vai continuar aceitando as próximas partidas que apareceren.
+
  ![](https://github.com/jacksonn455/bot-para-aceitar-partida/blob/main/partida.png)
