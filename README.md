@@ -1,7 +1,7 @@
 Bot para Counter-Strike Global Offensive
 ===============================================
 
-- Implementação de um bot para aceitar partidas.
+- Implementação foi criada para aprender as funcionalidades de reconhecimento de imagem em python.
 
 ## Autor
 
